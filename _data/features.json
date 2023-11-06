@@ -1,27 +1,27 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Neuroanatomy",
+    "description": "Half of us are graduates of the intercalated BSc. (Hons) Anatomy degree programme.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "/images/illustrations/brain chemistry-bro.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Neuroscientists",
+    "description": "All members of our team are neuroscientists.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "/images/features/Blood test-pana.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Neurophysiology",
+    "description": "Half of us are graduates of the intercalated BSc. (Hons) Physiology degree programme.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "/images/features/brain chemistry-rafiki (1).svg",
       "width": 80,
       "height": 80
     }

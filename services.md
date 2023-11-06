@@ -1,12 +1,12 @@
 ---
-title: Services
+title: services
 layout: services
-description: Services
-intro_image: "images/illustrations/reading.svg"
+description: services
+intro_image: "/images/illustrations/brain chemistry-pana (1).svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Who Are We?
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+A collective of driven, of resilient, and of focused medical students with a singular goal: increasing awareness of neuroscience amongst the Kenyan youth.

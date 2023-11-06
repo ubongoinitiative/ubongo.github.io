@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Our team of exceptional medical students, anatomists, physiologists, and medical researchers who are increasing awareness on neuroscience amongst high school students nationally.

@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Ubongo Initiative
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: A collective of driven, of resilient, and of focused medical students with a singular goal of increasing awareness of neuroscience amongst the Kenyan youth.
+intro_image: "images/illustrations/brain chemistry-pana (1).svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Ubongo Initiative.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+A collective of driven, of resilient, and of focused medical students with a singular goal of increasing awareness of neuroscience amongst the Kenyan youth.

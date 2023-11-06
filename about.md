@@ -5,83 +5,32 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+The Ubongo campaign was started in 2002 with the aim of promoting the field of neuroscience amongst primary, secondary, and university students. Since that time, Ubongo campaign has been teaching students on brain awareness, the importance of basic knowledge of neuroanatomy, neurophysiology, and behavioral neurophysiology with the aim of improving their basic understanding of brain function and how it controls human behavior. 
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+![Accounting Services](/images/team/Mwala's Finest-491.jpg)
 
-# Objectives
+Being the Kenyan Chapter of the International Brain Awareness, Ubongo holds its campaign during the brain awareness week.
+In addition to the brain awareness week event, the Ubongo campaign held a public lecture on the History of Neuroscience with Prof. Richard Brown (Dalhousie University) at the University of Nairobi Kenyatta National Hospital campus on 13th December 2022, a high school student workshop on neuroscience, neurophysiology, and on neuroanatomy at the University of Nairobi Chiromo campus on Saturday 20th May 2023, facilitated the transport of two Ubongo representatives to the AMPATH Neuroscience Stakeholder workshop on Friday 26th May and Saturday 27th May in Eldoret, Kenya, and made a presentation at the Neuroscience and Brain Health: Innovations, Research, and Collaborations conference at the Aga Khan University in Nairobi, Kenya on Monday 29th May 2023.
 
-Financial accounting and financial reporting are often used as synonyms.
+The Brain Awareness Week Campaign, a joint venture between IBRO, DABI (the Dana Alliance for Brain Initiatives), SfN (Society for Neuroscience), EDAB (the European Dana Alliance for the Brain) and FENS (the federation of European neuroscience Associations) is a global campaign aimed at increasing public awareness on neuroscience and the progress and benefits of brain research.
+The Kenya National Brain Bee Contest Champion 2023 was 17 year old Martin Ayuka, a student at Sunshine Secondary School.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+# This Year's Objectives
 
-## Relevance
+The following objectives were decided for this year’s Brain Awareness 2023 events:
+1. Elevate mental health awareness among Kenyan youth, specifically targeting those in high school and medical school.
+2. Educate students on the significance of brain health within the broader context of overall well-being, while also introducing the potential of a career in neuroscience.
+3. Motivate the younger generation to emerge as the forthcoming cadre of neuroscientists, psychologists, physicians, and thought leaders. These individuals will be pivotal in advancing research, shaping policy, and devising effective interventions.
+4. Prioritize engagement with students from underprivileged schools, ensuring equitable distribution and awareness of neuroscience knowledge throughout Kenya.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+## This Year’s Events
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+1. PUBLIC LECTURE BY PROF. RICHARD BROWN
+    <a href='https://drive.google.com/drive/folders/1TdjbMbIMpTDA9BHyEZModCIS2Xpfcqlr?usp=sharing'> Prof. Richard Brown Public Lecture Gallery</a>
+2. FIRESIDE CHAT ON ADVANCEMENTS IN NEUROSCIENCE BY DR. MICHAEL MAGOHA
+    <a href='https://drive.google.com/drive/folders/1MmIGIZilj0wqjkgjkQeAeGvn8_n2u7c-'> Dr. Magoha Fireside Chat Gallery</a>
+3. UBONGO HIGH SCHOOL WORKSHOP AND KENYA NATIONAL BRAIN BEE COMPETITION
+   <a href='https://drive.google.com/drive/folders/1-A7O3F4q6cv8z5n4xMetBNaUilHPmOnR'> Ubongo Workshop and Kenya National Brain Bee Competition Gallery</a>
+4. UBONGO REPRESENTATION AT THE AMPATH NEUROSCIENCE STAKEHOLDER WORKSHOP
+5. UBONGO PRESENTATION AND PARTICIPATION AT THE NEUROSCIENCE AND BRAIN HEALTH: INNOVATIONS, RESEARCH, AND COLLABORATIONS CONFERENCE Neuroscience and Brain Health: Innovations, Research, and Collaborations conference
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
