@@ -1,4 +1,5 @@
-baseurl: '/jekyll-serif-theme/'
+baseurl: /jekyll-serif-theme
+remote-theme: Serif
 permalink: pretty
 title: Ubongo
 
