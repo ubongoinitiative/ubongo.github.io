@@ -21,8 +21,6 @@ professionals and the budding high school and undergraduate students
 2. To educate and increase the interest of university students about pursuing careers in
 neuroscience.
 
-![Webinars](/images/services/Screenshot_20231101_075510_Docs.jpg)
-
 ## Speakers
 1. Dr Beverly Cheserem – Neurosurgery Department, Aga Khan
 University Hospital
