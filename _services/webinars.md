@@ -11,8 +11,6 @@ the myriad of career opportunities in the field of neuroscience.
 An average of 80 health Sciences students attended the lecture, both undergraduate and
 postgraduate students from the University of Nairobi and Kenyatta University.
 
-![Webinars](/images/services/Screenshot_20231101_075523_Docs.jpg)
-![Webinars](/images/services/Screenshot_20231101_075545_Docs.jpg)
 
 # Objectives
 1. To promote brain awareness to students by bridge the gap between the neuroscience
